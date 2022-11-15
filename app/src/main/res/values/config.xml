@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_base_url">https://api.themoviedb.org/3/</string>
+    <string name="image_base_url">https://image.tmdb.org/t/p/w500</string>
+
+    <integer name="rating_progress_bar_max">100</integer>
+    <integer name="rating_progress_multiplier">10</integer>
+</resources>
